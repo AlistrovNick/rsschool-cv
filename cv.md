@@ -20,6 +20,6 @@ I am sociable, non-conflict, helpful, easily enter in team.
 * **Univercity:** Belarusian State University of Informatics and Radioelectronics
 * **Courses:**
     + Epam Java lab
-    + Helhard Academy
+    + Belhard Academy
 ## English
 A2+
